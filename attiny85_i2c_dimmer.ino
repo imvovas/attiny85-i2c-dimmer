@@ -1,5 +1,5 @@
 // автономный диммер на ATtiny85
-
+// по мотивам http://arduino.ru/forum/programmirovanie/attiny85-i-preryvanie
 
 
 // управляется по I2C.
